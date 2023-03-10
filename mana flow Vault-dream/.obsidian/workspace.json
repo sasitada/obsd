@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "1e78675fcb6982a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ebccb7b5345616d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c34dad23df2d32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mana/C/Cp-input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ba212bfbb954c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d8a181d479f62e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3feadfb2ca2a8ac5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d09365bd6ce23f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8047b91fdd08a35d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "9f0ebb56504a5891",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe138c7e36cf79a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c758797e517f9f80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mana/C/Cp-input.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "56dfaa529a0157fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mana/C/Cp-input.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8399bda8350eee41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d50dfd00ab8cd978",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mana/C/Cp-input.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "9c34dad23df2d32c",
+  "lastOpenFiles": [
+    "mana/img/C/C-Test KYC PAon-01.png",
+    "mana/C/Cp-input.md",
+    "mana/C/Cl103a1.md",
+    "mana/C/Ci102a1.md",
+    "mana/TP-QR Wireframe.md",
+    "mana/img/TP-QR_Wireframe.png",
+    "mana/C/Ci115a1.md",
+    "mana/C/Ci103a1.md",
+    "mana/C/Ci002a1.md",
+    "mana/C/Cd104a1.md",
+    "TP-QR_Wireframe-01.png.md",
+    "ยังไม่ได้ตั้งชื่อ.md",
+    "mana/KYC-Basic Wireframe.md",
+    "mana/img/KYC_Wireframe-01.png",
+    "mana/C/C-navigate-1.md",
+    "mana/C/C-interact-s1-3.md",
+    "mana/C/C-input-1.md",
+    "mana/C/C-info-1.md",
+    "mana/img/P/Pc2a1.png",
+    "mana/img/P/P().png",
+    "mana/C/Ci103b1.md",
+    "mana/C/Ci101a1.md",
+    "mana/E/Et.md",
+    "mana/E/Em.md",
+    "mana/img/E/Em.png",
+    "mana/P/P (x, y, z).md",
+    "mana/img/P/Pd2a2 1.png",
+    "mana/img/P/Pd1a1 1.png",
+    "mana/P/Pd2a2.md",
+    "mana/P/Px2a1.md",
+    "mana/P/Pd1a1.md",
+    "mana/img/C/Cl103a1.png",
+    "mana/img/C/Cp()-part2.png",
+    "mana/img/C/Cp()-part1.png",
+    "mana/C/C-info-2.md",
+    "Ci00200a1.png.md",
+    "ยังไม่ได้ตั้งชื่อ",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
+    "mana/img/C 2",
+    "mana/C 2",
+    "mana/img/C/C-Test KYC PAon-11.png.tmp$$",
+    "mana/img/C/C-Test KYC PAon-07.png.tmp$$",
+    "mana/img/C/C-Test KYC PAon-06.png.tmp$$",
+    "mana/img/C/C-Test KYC PAon-05.png.tmp$$",
+    "mana/img/C/C-Test KYC PAon-04.png.tmp$$",
+    "mana/img/C/C-Test KYC PAon-03.png.tmp$$",
+    "mana/img/C/C-Test KYC PAon-02.png.tmp$$"
+  ]
+}
